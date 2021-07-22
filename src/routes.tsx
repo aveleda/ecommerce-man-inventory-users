@@ -1,8 +1,9 @@
 import React from "react";
 import { Switch, Route, BrowserRouter } from 'react-router-dom';
-import Product from "./pages/Product";
 import Home from "./pages/Home";
 import Client from "./pages/Client";
+import Product from "./pages/Product";
+import ViewProduct from "./pages/ViewProduct";
 
 export default function Routes() {
     return (
@@ -10,7 +11,8 @@ export default function Routes() {
             <Switch>
                 <Route path='/' exact component={Home} />
                 <Route path='/client' component={Client} />
-                <Route path='/products' component={Product} />
+                <Route path='/product' component={Product} />
+                <Route path='/viewprod' component={ViewProduct} />
             </Switch>
         </BrowserRouter>
     )

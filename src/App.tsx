@@ -1,8 +1,8 @@
 import React from 'react';
-import Product from './pages/Product';
+import Routes from './routes';
 
 const App: React.FC = () => {
-  return <Product />
+  return <Routes />
 } 
 
 export default App;

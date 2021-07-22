@@ -1,0 +1,18 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343704000",
+            "name": "IPhone",
+            "description": "IPhone Apple",
+            "price": "6.000,00"
+        },
+        {
+            "id": 2,
+            "photo": "https://a-static.mlcdn.com.br/618x463/smartphone-samsung-galaxy-s21-128gb-violeta-5g-8gb-ram-tela-62-cam-tripla-selfie-10mp/magazineluiza/155619100/366e21215eb0bd8d310fdd552e1010b6.jpg",
+            "name": "Galaxy",
+            "description": "Samsung Galaxy",
+            "price": "5.000,00"
+        }
+    ]
+}

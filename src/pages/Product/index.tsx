@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import * as S from './style';
 
 interface IProduct{
-    id: number;
     name: string;
     photo: string;
     description: string;
@@ -12,7 +11,6 @@ interface IProduct{
 
 const Product: React.FC = () => {
     const [data, setData] = useState<IProduct>({
-        id: 0,
         name: '',
         photo: '',
         description: '',

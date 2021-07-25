@@ -2,20 +2,19 @@
 
 Ecommerce management inventory and users.
 
-## Available Scripts
+## Scripts Disponiveis
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Executa o aplicativo no modo de desenvolvimento.
+Abra http://localhost:3000 para visualizá-lo no navegador.
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Compila o aplicativo para produção na pasta de construção.
 
 ### `yarn server`
 
-Simulates a product API.
+Necessário para selecionar o menu "Visualizar produtos".

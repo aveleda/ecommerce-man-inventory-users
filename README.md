@@ -17,4 +17,4 @@ Compila o aplicativo para produção na pasta de construção.
 
 ### `yarn server`
 
-Necessário para selecionar o menu "Visualizar produtos".
+Simula uma API que popula o menu "Visualizar produtos". Sem ele executando não aparece nenhum produto.
